@@ -2,6 +2,7 @@
 
 ###Output:
 Press From and To floors: 
+
 ###Type:
 1 9
 ###Output:
@@ -17,6 +18,7 @@ Press From and To floors:
 - Elevator is moveing up: 9
 - Elevator is opening door on 9
 - Elevator is closing door on 9
+
 ###Type:
 2 7
 ###Output:
